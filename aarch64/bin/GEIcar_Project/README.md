@@ -16,7 +16,7 @@
 ### main:
 * main.py
 
-### HOW IT WORKS:
+## How it works:
 
 The main software is in "main.py".
 
