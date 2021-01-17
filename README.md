@@ -26,7 +26,7 @@ Execute `cd ./aarch64/bin/GEIcar_Project` in a terminal opened in this folder.
 * The first launch file is designed to change the *ROS_IP* and the *ROS_MASTER_URI* as the *roscore* is not running on the Jetson Nano but on the Raspberry PI. It then runs the detection main script. 
 If it is your case execute the command `./launch.sh` in any terminal opened in this folder.
 
-    *NB: DO NOT FORGET TO MODIFY* **ROS_IP** *AND* **ROS_MASTER_URI** *TO FIT YOUR ROS CONFIGURATION.*
+    **_NB:_** *DO NOT FORGET TO MODIFY* **ROS_IP** *AND* **ROS_MASTER_URI** *TO FIT YOUR ROS CONFIGURATION.*
 
 
 * If you want to test the software with a local *roscore*, then  execute the command `./launch_local.sh` in any terminal opened in this folder after having runned a *roscore*.
