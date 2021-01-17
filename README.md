@@ -1,1 +1,4 @@
-# AI_Object_Detection
+# siecCAN
+
+# GO to aarch64/bin/GEIcar_Project/
+
