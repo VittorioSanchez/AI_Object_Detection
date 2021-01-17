@@ -72,3 +72,8 @@ In the main file the two previous thread classes are imported. First the ROS Top
 ## How to manually run the software:
 
 Execute `python3.6 main.py` in a terminal opened in this folder.
+
+## Further information:
+
+Most of the software regarding the detection processing is an adaptation of the NVIDIA's github repository *_jetson_inference_* that you can find [here](https://github.com/dusty-nv/jetson-inference).
+It contains the link to all API documentation as well as several tutorial for AI implementation and training.
