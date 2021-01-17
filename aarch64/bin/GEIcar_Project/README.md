@@ -68,3 +68,7 @@ Contains the class ROS_publisher, which corresponds to a thread that continuousl
 5. main.py
 
 In the main file the two previous thread classes are imported. First the ROS Topic is created, then 3 threads are declared and runned: the ROS publisher thread and 2 detection threads, one for humans and one for other hurdles.
+
+## How to manually run the software:
+
+Execute `python3.6 main.py` in a terminal opened in this folder.
