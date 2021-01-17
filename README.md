@@ -1,9 +1,9 @@
 # AI_Object_Detection
 
 This repository contains all the software regarding our Convolutional Neural Networks implementation on the *Jetson Nano*.
-We actually implemented two Convolutional Neural Networks:
+We actually implemented two Convolutional Neural Networks:<br/>
     1. multiped: it was already trained and detects humans and their luggages
-    2. a custom Mobilenet-SSD: we trained it ourselves to fit specific classes:
+    2. a custom Mobilenet-SSD: we trained it ourselves to fit specific classes:<br/>
         ⋅⋅* person
         ⋅⋅* baggage
         ⋅⋅* ball
